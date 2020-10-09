@@ -14,12 +14,12 @@ function atualizarMostrador(){
 	if (playTime==player1){
 
 		var player = document.querySelectorAll("div#mostrador img")[0];
-		player.setAttribute("src", "./fotos/inseticida.png");
+		player.setAttribute("src", "./img/inseticida.png");
 
 	}else{
 
 		var player = document.querySelectorAll("div#mostrador img")[0];
-		player.setAttribute("src", "./fotos/pernelongo.png");
+		player.setAttribute("src", "./img/pernelongo.png");
 	}
 }
 
@@ -37,14 +37,14 @@ function inicializarEspacos() {
 
 	 		if (playTime == player1){
 
-	 			this.innerHTML = "<img src='./fotos/inseticida.png'>";
+	 			this.innerHTML = "<img src='./img/inseticida.png'>";
 
 	 			this.setAttribute("jogada", player1);
 	 			playTime = player2;
 
 	 		}else{
 
-	 			this.innerHTML = "<img src='./fotos/pernelongo.png'>";
+	 			this.innerHTML = "<img src='./img/pernelongo.png'>";
 
 	 			this.setAttribute("jogada", player2);
 	 			playTime = player1;

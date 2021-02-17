@@ -1,6 +1,6 @@
 <h1 align="center">Tic Tec Toe</h1>
 
-<p align="center"> Divertido Tic Tec Toe feito para praticar conhecimentos em _Java Script_</p>
+<p align="center"> Divertido Tic Tec Toe feito para praticar conhecimentos em <em>Java Script</em></p>
 
 <h3 align="center">Bibliotecas Utilizadas</h3>
 <p align="center">

@@ -1,23 +1,29 @@
-
-#mostrador{
-    margin: auto;
-    margin-top: 40px;
-    width: 252px;
-    height: 80px;
-
+* {
+    margin: 0;
 }
 
-.espaco{
+main {
+    height: 100vh;
+}
+
+.pixel{
     width: 80px;
     height: 60px;
+    background-color: rgb(255, 255, 255);
     border: 2px solid #000;
     float: left;
     text-align: center;
     padding-top: 20px;
 }
 
-.tabuleiro{
+.board{
     margin: auto;
     width: 252px;
     height: 252px;
+}
+
+.img-perfil {
+    border-radius: 8rem;
+    width: 100px;
+    height: 100px;
 }

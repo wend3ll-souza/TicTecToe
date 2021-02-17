@@ -1,25 +1,13 @@
-# Jogo da Velha
+<h1 align="center">Tic Tec Toe</h1>
 
+<p align="center"> Divertido Tic Tec Toe feito para praticar conhecimentos em _Java Script_</p>
 
-estudando com jogo da velha
+<h3 align="center">Bibliotecas Utilizadas</h3>
+<p align="center">
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=bootstrap&message=Style-API&color=rgb(138,43,226)&style=for-the-badge&logo=ghost"></a>
+</p>
 
-# Terefas
-
-O controle das tarefas desse projeto será realizado no GitHub
-
-# Icones
-
-• :package: nova funcionalidade
-
-• :up: atualização (texto, formatação)
-
-• :beetle: correção de bug
-
-• :checkered_flag: release (entrega de uma parte funcional)
-
-
-# Referencia 
-
-Estou seguindo esse ótimo tutorial com intuito de praticar meus conhecimentos
-
-https://www.youtube.com/watch?v=Ueh549xEV9E
+<h3 align="center"> Aplicação em Funcionamento </h3>
+ <p align="center" ><a href="https://wend3ll-souza.github.io/TicTexToe/" target="_blank"><img src="https://img.shields.io/static/v1?label=Deploy&message=Go_To_App&color=rgb(0,255,0)&style=for-the-badge&logo=ghost"></a></p>
+ 
+ <p align="center"><img src="./img/TicTecToe.gif" alt="example image"></p>
